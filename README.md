@@ -1,5 +1,4 @@
-# Differential-Drive-Mobile-Robot
-Differential Drive Mobile Robot Project via Data Logging.
+# Differential Drive Mobile Robot Project via Data Logging
 The aim of this project is that design a mobile robot which has an obstacle detection module and control it with an HMI via motion of body parts. In this direction, related mechanics, electronics and software parts of a mobile robot is designed, developed and builded according to requirements.
 ### [Mobile Robot](https://github.com/Kucukcollu/Differential-Drive-Mobile-Robot/blob/master/MobileRobot.ino)
 
