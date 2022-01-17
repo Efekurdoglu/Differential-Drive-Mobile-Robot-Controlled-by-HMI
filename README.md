@@ -1,6 +1,6 @@
 # Differential-Drive-Mobile-Robot
 Differential Drive Mobile Robot Project via Data Logging.
-
+The aim of this project is that design a mobile robot which has an obstacle detection module and control it with an HMI via motion of body parts. In this direction, related mechanics, electronics and software parts of a mobile robot is designed, developed and builded according to requirements.
 ### [Mobile Robot](https://github.com/Kucukcollu/Differential-Drive-Mobile-Robot/blob/master/MobileRobot.ino)
 
 In the Mobile Robot circuit an SD card recorder was used to store LDR value, velocity state and motor velocity. The related 
@@ -18,8 +18,7 @@ a mobile device or a tablet should be used. Communication was established by Blu
 ![](https://github.com/Kucukcollu/Differential-Drive-Mobile-Robot/blob/master/velocity%20graph.jpg)
 
 
-# Mobile Robot
-The aim of this project is that design a mobile robot which has an obstacle detection module and control it with an HMI via motion of body parts. In this direction, related mechanics, electronics and software parts of a mobile robot is designed, developed and builded according to requirements.<br></br>
+<br></br>
 
 ## [Mobile Robot](https://github.com/Kucukcollu/Mobile-Robot-Control-via-HMI/blob/master/CAR.ino)
 
